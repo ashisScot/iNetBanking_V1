@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="InetBankingV1" duration-ms="90737" started-at="2021-01-24T18:35:54 IST" finished-at="2021-01-24T18:37:25 IST">
+    <groups>
+    </groups>
+    <test name="BankingAppTest" duration-ms="90737" started-at="2021-01-24T18:35:54 IST" finished-at="2021-01-24T18:37:25 IST">
+      <class name="com.iNetBanking.TestCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.iNetBanking.TestCases.TC_LoginTest_001@27a8c74e]" name="setUp" is-config="true" duration-ms="18390" started-at="2021-01-24T18:35:55 IST" finished-at="2021-01-24T18:36:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.iNetBanking.TestCases.TC_LoginTest_001@27a8c74e]" name="loginTest" duration-ms="250" started-at="2021-01-24T18:36:13 IST" finished-at="2021-01-24T18:36:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.iNetBanking.TestCases.TC_LoginTest_001@27a8c74e]" name="tearDown" is-config="true" duration-ms="2069" started-at="2021-01-24T18:36:13 IST" finished-at="2021-01-24T18:36:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.iNetBanking.TestCases.TC_LoginTest_001 -->
+      <class name="com.iNetBanking.TestCases.TC_AddCustomerTest_002">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.iNetBanking.TestCases.TC_AddCustomerTest_002@2d8f65a4]" name="setUp" is-config="true" duration-ms="15546" started-at="2021-01-24T18:36:16 IST" finished-at="2021-01-24T18:36:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.iNetBanking.TestCases.TC_AddCustomerTest_002@2d8f65a4]" name="addCustomerTest" duration-ms="24847" started-at="2021-01-24T18:36:36 IST" data-provider="AddCustomerData" finished-at="2021-01-24T18:37:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[34612]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Testing]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[452123]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[8964452134]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[abcd1423]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="addCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.iNetBanking.TestCases.TC_AddCustomerTest_002@2d8f65a4]" name="addCustomerTest" duration-ms="23284" started-at="2021-01-24T18:37:01 IST" data-provider="AddCustomerData" finished-at="2021-01-24T18:37:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[New Test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[35988]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Test Address]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[New York]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Arizona]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[654189]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9145687452]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[bhne5478]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.iNetBanking.TestCases.TC_AddCustomerTest_002@2d8f65a4]" name="tearDown" is-config="true" duration-ms="1086" started-at="2021-01-24T18:37:24 IST" finished-at="2021-01-24T18:37:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.iNetBanking.TestCases.TC_AddCustomerTest_002 -->
+    </test> <!-- BankingAppTest -->
+  </suite> <!-- InetBankingV1 -->
+</testng-results>

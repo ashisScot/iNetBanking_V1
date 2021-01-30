@@ -1,0 +1,4 @@
+# Created at 2021-01-30T20:38:01.217
+Boot Manifest-JAR contains absolute paths in classpath 'E:\AshisWork\NewWorkspace\iNetBanking_V1\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

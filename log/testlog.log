@@ -1,0 +1,160 @@
+2021-01-24 03:37:38,456 - eBanking -INFO - Open the application url
+2021-01-24 03:37:45,766 - eBanking -INFO - Logged into application
+2021-01-24 03:37:51,431 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-24 03:37:59,936 - eBanking -ERROR - unexpected alert open: {Alert text : please fill all fields}
+  (Session info: chrome=87.0.4280.141): please fill all fields
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-86N1T3I', ip: '172.28.176.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Ashis\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60437}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 50f9f6313412f776a0be72a06476df52
+*** Element info: {Using=xpath, value=//*[text()='Customer Registered Successfully!!!']}
+2021-01-24 03:38:01,157 - eBanking -INFO - Taken the ScreenShot
+2021-01-24 03:45:25,817 - eBanking -INFO - Open the application url
+2021-01-24 03:45:33,508 - eBanking -INFO - Logged into application
+2021-01-24 03:45:37,638 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-24 03:45:59,140 - eBanking -ERROR - unexpected alert open: {Alert text : please fill all fields}
+  (Session info: chrome=87.0.4280.141): please fill all fields
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-86N1T3I', ip: '172.28.176.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Ashis\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60509}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 90a81c62b8a1c3e0d754727a6787c2fe
+*** Element info: {Using=xpath, value=//*[text()='Customer Registered Successfully!!!']}
+2021-01-24 03:46:00,729 - eBanking -INFO - Taken the ScreenShot
+2021-01-24 03:48:14,318 - eBanking -INFO - Open the application url
+2021-01-24 03:48:18,682 - eBanking -INFO - Logged into application
+2021-01-24 03:48:20,996 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-24 03:48:43,759 - eBanking -ERROR - unexpected alert open: {Alert text : Email Address Already Exist !!}
+  (Session info: chrome=87.0.4280.141): Email Address Already Exist !!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-86N1T3I', ip: '172.28.176.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Ashis\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60591}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 320c449a07fa677e6cd6c6a55e96e560
+*** Element info: {Using=xpath, value=//*[text()='Customer Registered Successfully!!!']}
+2021-01-24 03:48:45,060 - eBanking -INFO - Taken the ScreenShot
+2021-01-24 17:52:14,535 - eBanking -INFO - Open the application url
+2021-01-24 17:52:24,140 - eBanking -INFO - Logged into application
+2021-01-24 17:52:31,750 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-24 17:52:57,868 - eBanking -INFO - Customer Add Successful
+2021-01-24 17:52:59,702 - eBanking -INFO - Taken the ScreenShot
+2021-01-24 18:03:17,542 - eBanking -INFO - Open the application url
+2021-01-24 18:03:24,200 - eBanking -INFO - Logged into application
+2021-01-24 18:03:24,250 - eBanking -INFO - Login Test passed
+2021-01-24 18:03:42,969 - eBanking -INFO - Open the application url
+2021-01-24 18:03:47,226 - eBanking -INFO - Logged into application
+2021-01-24 18:03:49,774 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-24 18:04:13,125 - eBanking -INFO - Customer Add Successful
+2021-01-24 18:04:13,979 - eBanking -INFO - Taken the ScreenShot
+2021-01-24 18:20:44,582 - eBanking -INFO - Open the application url
+2021-01-24 18:20:56,086 - eBanking -INFO - Logged into application
+2021-01-24 18:20:56,130 - eBanking -INFO - Login Test passed
+2021-01-24 18:21:16,440 - eBanking -INFO - Open the application url
+2021-01-24 18:21:20,454 - eBanking -INFO - Logged into application
+2021-01-24 18:21:22,371 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-24 18:21:45,875 - eBanking -INFO - Customer Add Successful
+2021-01-24 18:21:46,911 - eBanking -INFO - Taken the ScreenShot
+2021-01-24 18:21:46,924 - eBanking -INFO - Open the application url
+2021-01-24 18:21:47,489 - eBanking -ERROR - no such element: Unable to locate element: {"method":"css selector","selector":"*[name='uid']"}
+  (Session info: chrome=87.0.4280.141)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-86N1T3I', ip: '172.28.176.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Ashis\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62032}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c147657e9807dffb0099707559e18298
+*** Element info: {Using=name, value=uid}
+2021-01-24 18:21:47,843 - eBanking -INFO - Taken the ScreenShot
+2021-01-24 18:34:38,935 - eBanking -INFO - Logged into application
+2021-01-24 18:34:38,982 - eBanking -INFO - Open the application url
+2021-01-24 18:34:39,179 - eBanking -INFO - Login Test passed
+2021-01-24 18:34:59,881 - eBanking -INFO - Logged into application
+2021-01-24 18:35:05,690 - eBanking -INFO - Open the application url
+2021-01-24 18:35:05,950 - eBanking -ERROR - no such element: Unable to locate element: {"method":"css selector","selector":"*[name='uid']"}
+  (Session info: chrome=87.0.4280.141)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-86N1T3I', ip: '172.28.176.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Ashis\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62183}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a63839b24109c8b420622ced40bff4b6
+*** Element info: {Using=name, value=uid}
+2021-01-24 18:35:06,776 - eBanking -INFO - Taken the ScreenShot
+2021-01-24 18:35:06,878 - eBanking -INFO - Open the application url
+2021-01-24 18:35:06,979 - eBanking -ERROR - no such element: Unable to locate element: {"method":"css selector","selector":"*[name='uid']"}
+  (Session info: chrome=87.0.4280.141)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-86N1T3I', ip: '172.28.176.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Ashis\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62183}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a63839b24109c8b420622ced40bff4b6
+*** Element info: {Using=name, value=uid}
+2021-01-24 18:35:07,458 - eBanking -INFO - Taken the ScreenShot
+2021-01-24 18:36:13,649 - eBanking -INFO - Logged into application
+2021-01-24 18:36:13,704 - eBanking -INFO - Open the application url
+2021-01-24 18:36:13,930 - eBanking -INFO - Login Test passed
+2021-01-24 18:36:31,595 - eBanking -INFO - Logged into application
+2021-01-24 18:36:36,253 - eBanking -INFO - Open the application url
+2021-01-24 18:36:37,655 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-24 18:37:00,497 - eBanking -INFO - Customer Add Successful
+2021-01-24 18:37:01,082 - eBanking -INFO - Taken the ScreenShot
+2021-01-24 18:37:01,108 - eBanking -INFO - Open the application url
+2021-01-24 18:37:01,834 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-24 18:37:24,005 - eBanking -INFO - Customer Add Successful
+2021-01-24 18:37:24,392 - eBanking -INFO - Taken the ScreenShot
+2021-01-26 17:34:13,178 - eBanking -INFO - Logged into application
+2021-01-26 17:34:21,902 - eBanking -INFO - Open the application url
+2021-01-26 17:34:26,867 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-26 17:34:56,270 - eBanking -INFO - Customer Add Successful
+2021-01-26 17:35:00,663 - eBanking -INFO - Taken the ScreenShot
+2021-01-26 17:35:00,848 - eBanking -INFO - Open the application url
+2021-01-26 17:35:04,693 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-26 17:35:30,307 - eBanking -INFO - Customer Add Successful
+2021-01-26 17:35:30,711 - eBanking -INFO - Taken the ScreenShot
+2021-01-26 17:50:26,608 - eBanking -INFO - Logged into application
+2021-01-26 17:50:26,809 - eBanking -INFO - Open the application url
+2021-01-26 17:50:27,389 - eBanking -INFO - Login Test passed
+2021-01-26 17:50:44,653 - eBanking -INFO - Logged into application
+2021-01-26 17:50:51,744 - eBanking -INFO - Open the application url
+2021-01-26 17:50:53,342 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-26 17:51:18,668 - eBanking -INFO - Customer Add Successful
+2021-01-26 17:51:19,666 - eBanking -INFO - Taken the ScreenShot
+2021-01-26 17:51:19,682 - eBanking -INFO - Open the application url
+2021-01-26 17:51:21,461 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-26 17:51:45,082 - eBanking -INFO - Customer Add Successful
+2021-01-26 17:51:45,476 - eBanking -INFO - Taken the ScreenShot
+2021-01-27 23:51:34,876 - eBanking -INFO - Logged into application
+2021-01-27 23:51:35,984 - eBanking -INFO - Open the application url
+2021-01-27 23:51:36,065 - eBanking -INFO - Login Test passed
+2021-01-27 23:52:03,726 - eBanking -INFO - Logged into application
+2021-01-27 23:52:11,064 - eBanking -INFO - Open the application url
+2021-01-27 23:52:12,717 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-27 23:52:36,351 - eBanking -INFO - Customer Add Successful
+2021-01-27 23:52:37,569 - eBanking -INFO - Taken the ScreenShot
+2021-01-27 23:52:37,575 - eBanking -INFO - Open the application url
+2021-01-27 23:52:39,338 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-27 23:53:02,382 - eBanking -INFO - Customer Add Successful
+2021-01-27 23:53:02,717 - eBanking -INFO - Taken the ScreenShot
+2021-01-29 03:18:25,259 - eBanking -INFO - Logged into application
+2021-01-29 03:18:25,474 - eBanking -INFO - Open the application url
+2021-01-29 03:18:25,549 - eBanking -INFO - Login Test passed
+2021-01-29 03:18:46,866 - eBanking -INFO - Logged into application
+2021-01-29 03:18:52,307 - eBanking -INFO - Open the application url
+2021-01-29 03:18:53,819 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-29 03:19:17,469 - eBanking -INFO - Customer Add Successful
+2021-01-29 03:19:18,644 - eBanking -INFO - Taken the ScreenShot
+2021-01-29 03:19:18,649 - eBanking -INFO - Open the application url
+2021-01-29 03:19:19,949 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-29 03:19:43,619 - eBanking -INFO - Customer Add Successful
+2021-01-29 03:19:44,059 - eBanking -INFO - Taken the ScreenShot
+2021-01-30 20:39:29,842 - eBanking -INFO - Logged into application
+2021-01-30 20:39:43,411 - eBanking -INFO - Open the application url
+2021-01-30 20:39:48,745 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-30 20:40:11,966 - eBanking -INFO - Customer Add Successful
+2021-01-30 20:40:13,452 - eBanking -INFO - Taken the ScreenShot
+2021-01-30 20:40:13,518 - eBanking -INFO - Open the application url
+2021-01-30 20:40:17,361 - eBanking -INFO - Navigating to the Add Customer Page
+2021-01-30 20:40:43,084 - eBanking -INFO - Customer Add Successful
+2021-01-30 20:40:43,569 - eBanking -INFO - Taken the ScreenShot
